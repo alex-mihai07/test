@@ -12,7 +12,6 @@ and open the template in the editor.
     <body>
         <?php
             echo "Hellow World</br>";
-	    echo "Hellow world2";
         ?>
         
         <h1> Titlu pentru commit </h1>
