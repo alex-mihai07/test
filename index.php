@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo "Hellow World";
+            echo "Hellow World</br>";
+	    echo "Hellow world2";
         ?>
     </body>
 </html>
