@@ -14,5 +14,7 @@ and open the template in the editor.
             echo "Hellow World</br>";
 	    echo "Hellow world2";
         ?>
+        
+        <h1> Titlu pentru commit </h1>
     </body>
 </html>
