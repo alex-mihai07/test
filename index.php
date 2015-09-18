@@ -15,6 +15,6 @@ and open the template in the editor.
         ?>
         
         <h1> Titlu pentru commit </h1>
-        <h2>Adaugat linie cod pentru branch</h2>
+        <h2>Adaugat linie cod pentru branch iss53</h2>
     </body>
 </html>
