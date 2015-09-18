@@ -15,5 +15,6 @@ and open the template in the editor.
         ?>
         
         <h1> Titlu pentru commit </h1>
+        <h2> Titlu pentru commit in branch master </h2>
     </body>
 </html>
